@@ -1,0 +1,16 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+        "top": "contenttweaker:blocks/iron_machine_frame_top",
+        "bottom": "contenttweaker:blocks/iron_machine_frame_top",
+        "side": "contenttweaker:blocks/iron_machine_frame_side"
+    },
+    "model": "minecraft:cube_bottom_top",
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

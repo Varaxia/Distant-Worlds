@@ -1,0 +1,16 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+        "top": "contenttweaker:blocks/glacial_log_top",
+        "bottom": "contenttweaker:blocks/glacial_log_top",
+        "side": "contenttweaker:blocks/glacial_log_side"
+    },
+    "model": "minecraft:cube_bottom_top",
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}
