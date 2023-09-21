@@ -1,0 +1,1 @@
+{ "rules": [ { "match": { "blocks": { "blocks": [ "contenttweaker:glacial_berry_leaves" ] } }, "drops": [ { "item": { "items" : [ "contenttweaker:glacial_berries" ], "quantity": { "min": 1, "max": 2}}} ] }] }
