@@ -1,0 +1,14 @@
+container.spaceship.name=Lunar Shuttle
+entity.rocket_t1.name=Lunar Shuttle
+item.rocket_t1.name=Lunar Shuttle
+schematic.rocket_t1.name=Lunar Shuttle
+item.engine.tier1engine.name=Basic Thruster
+item.engine.tier1booster.name=Basic Booster
+item.nose_cone.name=Basic Nose Cone
+item.rocket_fins.name=Basic Fins
+
+gui.message.tier.name=DIST %d
+
+item.tier1.desc=Composite
+
+
