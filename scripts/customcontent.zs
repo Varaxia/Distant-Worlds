@@ -130,3 +130,33 @@ swiring.register();
 var solingot = VanillaFactory.createItem("refined_solar_ingot");
 solingot.creativeTab = zsTab;
 solingot.register();
+
+var basicwaferbowl = VanillaFactory.createItemFood("bowl_of_basic_wafers", 0);
+basicwaferbowl.setItemUseAction("EAT");
+basicwaferbowl.setAlwaysEdible(true);
+basicwaferbowl.onItemFoodEaten = function(stack, world, player) {
+    if (!world.isRemote()) { 
+        player.give(<item:minecraft:bowl>);
+    }
+};
+basicwaferbowl.onItemFoodEaten = function(stack, world, player) {
+    player.addPotionEffect(<potion:minecraft:instant_damage>.makePotionEffect(1, 0.1));
+    };
+basicwaferbowl.maxStackSize = 1;
+basicwaferbowl.creativeTab = zsTab; 
+basicwaferbowl.register();
+
+var advancedwaferbowl = VanillaFactory.createItemFood("bowl_of_advanced_wafers", 0);
+advancedwaferbowl.setItemUseAction("EAT");
+advancedwaferbowl.setAlwaysEdible(true);
+advancedwaferbowl.onItemFoodEaten = function(stack, world, player) {
+    if (!world.isRemote()) { 
+        player.give(<item:minecraft:bowl>);
+    }
+};
+advancedwaferbowl.onItemFoodEaten = function(stack, world, player) {
+    player.addPotionEffect(<potion:minecraft:instant_damage>.makePotionEffect(1, 0.1));
+    };
+advancedwaferbowl.maxStackSize = 1;
+advancedwaferbowl.creativeTab = zsTab; 
+advancedwaferbowl.register();
