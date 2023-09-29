@@ -108,7 +108,7 @@
             "posX" : 5,
             "posY" : 142,
             "width" : 150,
-            "height" : 25,
+            "height" : 22,
             "texture" : "mainmenu:gui/black_transparent.png",
             "action" : 
             {
@@ -120,8 +120,8 @@
         "refresh":
         {
             "text" : "Ignore This Please",
-            "posX" : 111000,
-            "posY" : 120,
+            "posX" : 11111,
+            "posY" : 4,
             "width" : 20,
             "height" : 20,
             "texture" : "custommainmenu:textures/gui/buttons.png",
