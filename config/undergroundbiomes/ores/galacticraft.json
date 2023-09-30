@@ -1,0 +1,34 @@
+[
+  {
+    "internalOreName": "galacticraftcore:basic_block_core",
+    "meta": 5,
+    "overlay": "undergroundbiomes:overlays/galacticraft/ore_copper",
+    "lightValue": -1,
+    "alphaOverlay": false,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "galacticraftcore:basic_block_core",
+    "meta": 6,
+    "overlay": "undergroundbiomes:overlays/galacticraft/ore_tin",
+    "lightValue": -1,
+    "alphaOverlay": false,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "galacticraftcore:basic_block_core",
+    "meta": 7,
+    "overlay": "undergroundbiomes:overlays/galacticraft/ore_aluminum",
+    "lightValue": -1,
+    "alphaOverlay": false,
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "galacticraftcore:basic_block_core",
+    "meta": 8,
+    "overlay": "undergroundbiomes:overlays/galacticraft/ore_silicon",
+    "lightValue": -1,
+    "alphaOverlay": false,
+    "oreDirectories": []
+  }
+]

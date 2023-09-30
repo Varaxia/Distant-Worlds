@@ -1,0 +1,9 @@
+[
+  {
+    "mob": ["oe:glow_squid", "oe:baby_glow_squid"],
+    "result": "allow"
+  },
+  {
+    "result": "deny"
+  }
+  ]
