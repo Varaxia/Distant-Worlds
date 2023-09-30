@@ -1,0 +1,7 @@
+entity.rocket_t3.name=Interplanetary Rocket
+item.rocket_t3.t3Rocket.name=Interplanetary Rocket
+schematic.rocket_t3.name=Interplanetary Rocket
+item.engine_t2.name=Enhanced Thruster
+item.heavy_nose_cone.name=Enhanced Nose Cone
+item.rocket_fins_t2.name=Enhanced Fins
+item.tier3.desc=Refined
